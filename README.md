@@ -1,1 +1,1 @@
-# psdlayers2png
+photoshopの全レイヤーを一枚ずつ画像に変換するプログラムです。
